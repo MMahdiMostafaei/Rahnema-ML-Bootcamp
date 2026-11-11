@@ -1,0 +1,11 @@
+# Datasets / large generated data
+data/
+**/images/train/
+**/images/val/
+**/labels/
+**/detections/
+*.cache
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/

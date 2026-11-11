@@ -1,0 +1,7 @@
+# Dataset root. The images/ and labels/ folders are not included in this repo (see README).
+path: .
+train: images/train
+val: images/val
+nc: 1
+names:
+  0: license_plate
